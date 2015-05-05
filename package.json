@@ -17,12 +17,12 @@
   "author": "Auth0",
   "license": "mit",
   "dependencies": {
-    "saml": "~0.6.1",
     "ejs": "~0.8.3",
+    "saml": "git://github.com/HelloWallet/node-saml.git",
     "thumbprint": "0.0.1",
+    "xml-crypto": "0.0.13",
     "xmldom": "~0.1.15",
-    "xpath": "0.0.5",
-    "xml-crypto": "0.0.13"
+    "xpath": "0.0.5"
   },
   "devDependencies": {
     "chai": "~1.5.0",
